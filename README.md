@@ -1,1 +1,5 @@
 # Water Quality
+
+This study is centered around an examination of a public health research conducted in rural Bangladesh (Gelman et al., 2004). The research focused on assessing the presence of arsenic contamination in wells used for drinking water and categorizing them as safe or unsafe. It aimed to determine whether households opted to switch their drinking water source. Various factors that were believed to influence the decision to switch wells were also measured. The objective of our investigation is to ascertain the level of accuracy with which we can predict whether a household will switch wells based on these environmental variables.
+For a detailed account of data collection, please refer to Gelman et al. (2004). In summary, the study measured arsenic levels (measured in hundreds of 𝜇 g/L) in Araihazar, Bangladesh between 1999 and 2000. Additionally, a survey was conducted to gather supplementary information, including:
+Whether the household switched wells. The distance (in meters) to the nearest confirmed safe well. Involvement of any household members in community organizations. The highest level of education attained within the household.
